@@ -13,6 +13,13 @@
       "lastName": "Teste",
       "date": "1999-09-08",
       "check": false
+    },
+    {
+      "id": 2,
+      "name": "Lucifer",
+      "lastName": "Morningstar",
+      "date": "2020-04-08",
+      "check": true
     }
   ]
 }
