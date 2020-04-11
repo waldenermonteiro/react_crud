@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "lastName": "typicode",
+      "date": "2019-05-05",
+      "check": true
+    },
+    {
+      "id": "51kb0mm3",
+      "name": "Bianca",
+      "lastName": "Teste",
+      "date": "1999-09-08",
+      "check": false
+    }
+  ]
+}
